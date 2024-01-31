@@ -1,0 +1,6 @@
+
+1) Explain code to the user.
+2) Ask user to input their name.
+3) Use .rand() to output the first ticket.
+    A) Output the other 9 ticets using .rand()
+4) Wish the user goodluck and tell them the potential jackpot.
