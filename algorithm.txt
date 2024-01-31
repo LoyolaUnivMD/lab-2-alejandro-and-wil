@@ -1,3 +1,13 @@
-print out description of the program
-ask for the player's name
-...
+
+1) Explain code to the user.
+2) Import Scanner
+3) Ask user to input their name.
+4) Import Random and Thread local random
+5) Generate tickets using random
+ A) for loop that has a counter to run 10 times
+ B) nested for loop that runs 6 times
+6) Find random number and print it
+7) allow for the genrations of 0's by using ThreadLocalRandom and set the
+minimum to 0 and maximum to 100
+8) Tell user potential jackpot
+9)wish user goodluck
